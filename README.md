@@ -1,0 +1,2 @@
+# DorkandDox-Searcher
+This python3 program can either run dorks, or dox someone with their name and use public records. The only outside application you need is firefox. This program was made for linux and with slight tweaking you can make it work for windows also. This progam can be bought from me for $5 USD. you can contact me at +1(315)-273-8568 I AM NOT RESPONSIBLE FOR ANY ILLEGAL ACTS YOU USE THIS PROGRAM FOR AS IT IS ONLY FOR EDUCATIONAL PUROSES!!!!
